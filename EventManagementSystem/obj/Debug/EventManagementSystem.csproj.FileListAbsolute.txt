@@ -1,0 +1,43 @@
+E:\C#\EventManagementSystem\bin\Debug\EventManagementSystem.exe.config
+E:\C#\EventManagementSystem\bin\Debug\EventManagementSystem.exe
+E:\C#\EventManagementSystem\bin\Debug\EventManagementSystem.pdb
+E:\C#\EventManagementSystem\obj\Debug\EventManagementSystem.csproj.AssemblyReference.cache
+E:\C#\EventManagementSystem\obj\Debug\EventManagementSystem.Form1.resources
+E:\C#\EventManagementSystem\obj\Debug\EventManagementSystem.Form2.resources
+E:\C#\EventManagementSystem\obj\Debug\EventManagementSystem.Properties.Resources.resources
+E:\C#\EventManagementSystem\obj\Debug\EventManagementSystem.csproj.GenerateResource.cache
+E:\C#\EventManagementSystem\obj\Debug\EventManagementSystem.csproj.CoreCompileInputs.cache
+E:\C#\EventManagementSystem\obj\Debug\EventManagementSystem.exe
+E:\C#\EventManagementSystem\obj\Debug\EventManagementSystem.pdb
+E:\C#\EventManagementSystem\obj\Debug\EventManagementSystem.Form3.resources
+E:\C#\EventManagementSystem\obj\Debug\EventManagementSystem.Form4.resources
+E:\C#\EventManagementSystem\obj\Debug\EventManagementSystem.Form5.resources
+E:\C#\EventManagementSystem\obj\Debug\EventManagementSystem.Form6.resources
+C:\ALL CASE\University\projects\EventManagementSystem 2\EventManagementSystem\bin\Debug\EventManagementSystem.exe.config
+C:\ALL CASE\University\projects\EventManagementSystem 2\EventManagementSystem\bin\Debug\EventManagementSystem.exe
+C:\ALL CASE\University\projects\EventManagementSystem 2\EventManagementSystem\bin\Debug\EventManagementSystem.pdb
+C:\ALL CASE\University\projects\EventManagementSystem 2\EventManagementSystem\obj\Debug\EventManagementSystem.csproj.AssemblyReference.cache
+C:\ALL CASE\University\projects\EventManagementSystem 2\EventManagementSystem\obj\Debug\EventManagementSystem.home.resources
+C:\ALL CASE\University\projects\EventManagementSystem 2\EventManagementSystem\obj\Debug\EventManagementSystem.Properties.Resources.resources
+C:\ALL CASE\University\projects\EventManagementSystem 2\EventManagementSystem\obj\Debug\EventManagementSystem.csproj.GenerateResource.cache
+C:\ALL CASE\University\projects\EventManagementSystem 2\EventManagementSystem\obj\Debug\EventManagementSystem.csproj.CoreCompileInputs.cache
+C:\ALL CASE\University\projects\EventManagementSystem 2\EventManagementSystem\obj\Debug\EventManagementSystem.exe
+C:\ALL CASE\University\projects\EventManagementSystem 2\EventManagementSystem\obj\Debug\EventManagementSystem.pdb
+C:\ALL CASE\University\projects\EventManagementSystem 2\EventManagementSystem\obj\Debug\EventManagementSystem.LogIn.resources
+C:\ALL CASE\University\projects\EventManagementSystem 2\EventManagementSystem\obj\Debug\EventManagementSystem.signup.resources
+C:\ALL CASE\University\projects\EventManagementSystem 2\EventManagementSystem\obj\Debug\EventManagementSystem.Package.resources
+C:\ALL CASE\University\projects\EventManagementSystem 2\EventManagementSystem\obj\Debug\EventManagementSystem.Cart.resources
+C:\Users\User\Desktop\EventManagementSystem 1\EventManagementSystem\bin\Debug\EventManagementSystem.exe.config
+C:\Users\User\Desktop\EventManagementSystem 1\EventManagementSystem\bin\Debug\EventManagementSystem.exe
+C:\Users\User\Desktop\EventManagementSystem 1\EventManagementSystem\bin\Debug\EventManagementSystem.pdb
+C:\Users\User\Desktop\EventManagementSystem 1\EventManagementSystem\obj\Debug\EventManagementSystem.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\EventManagementSystem 1\EventManagementSystem\obj\Debug\EventManagementSystem.Cart.resources
+C:\Users\User\Desktop\EventManagementSystem 1\EventManagementSystem\obj\Debug\EventManagementSystem.home.resources
+C:\Users\User\Desktop\EventManagementSystem 1\EventManagementSystem\obj\Debug\EventManagementSystem.LogIn.resources
+C:\Users\User\Desktop\EventManagementSystem 1\EventManagementSystem\obj\Debug\EventManagementSystem.signup.resources
+C:\Users\User\Desktop\EventManagementSystem 1\EventManagementSystem\obj\Debug\EventManagementSystem.Package.resources
+C:\Users\User\Desktop\EventManagementSystem 1\EventManagementSystem\obj\Debug\EventManagementSystem.Properties.Resources.resources
+C:\Users\User\Desktop\EventManagementSystem 1\EventManagementSystem\obj\Debug\EventManagementSystem.csproj.GenerateResource.cache
+C:\Users\User\Desktop\EventManagementSystem 1\EventManagementSystem\obj\Debug\EventManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EventManagementSystem 1\EventManagementSystem\obj\Debug\EventManagementSystem.exe
+C:\Users\User\Desktop\EventManagementSystem 1\EventManagementSystem\obj\Debug\EventManagementSystem.pdb
